@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Muebles El Imperio</title>
+  <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+
+  <!-- Encabezado y Navegación -->
+  <header class="header">
+    <div class="logo">
+      <h1>Muebles El Imperio</h1>
+    </div>
+
+    <nav class="nav">
+      <ul class="menu-principal">
+        <li><a href="#inicio" onclick="filtrarCategoria('todos')">Inicio</a></li>
+        <li><a href="#comedores" onclick="filtrarCategoria('comedores')">Comedores</a></li>
+        <li><a href="#salas" onclick="filtrarCategoria('salas')">Salas</a></li>
+        <li><a href="#somieres" onclick="filtrarCategoria('somieres')">Somieres</a></li>
+        <li><a href="#colchones" onclick="filtrarCategoria('colchones')">Colchones</a></li>
+        
+        <!-- Formulario de Contacto -->
+        <!-- Información de Contacto Simplificada -->
+        <li class="has-dropdown">
+          <a href="#Contacto">Contacto</a>
+          <ul class="dropdown dropdown-info">
+            <li>
+              <div class="info-contacto">
+                <p><strong>Contacto:</strong> +57 3202486227</p>
+                <p><strong>Correo:</strong> bejaranonoelia815@gmail.com</p>
+              </div>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Sección de Catálogo de Productos -->
+  <main class="contenedor-principal">
+    <h2 id="titulo-categoria">Todos nuestros muebles</h2>
+    
+    <!-- Contenedor donde se mostrarán las tarjetas de productos dinámicamente -->
+    <section class="grid-productos" id="grid-productos">
+      <!-- Aquí JavaScript insertará los productos cargados desde la base de datos -->
+    </section>
+  </main>
+
+<!-- Código de conexión y filtrado directamente embebido -->
+  <script>
+    // Cargar productos desde la API Express
+    async function cargarProductos(categoria = 'todos') {
+      const contenedor = document.getElementById("grid-productos");
+      if (!contenedor) return;
+
+      contenedor.innerHTML = "<p style='grid-column: 1/-1; text-align:center;'>Cargando muebles...</p>";
+
+      try {
+        const url = (categoria === 'todos') 
+          ? 'http://localhost:3000/api/productos' 
+          : `http://localhost:3000/api/productos?categoria=${encodeURIComponent(categoria)}`;
+
+        const respuesta = await fetch(url);
+        if (!respuesta.ok) throw new Error("Error en el servidor");
+
+        const productos = await respuesta.json();
+        mostrarProductos(productos);
+      } catch (error) {
+        console.error("Error al consultar la base de datos:", error);
+        contenedor.innerHTML = "<p style='grid-column: 1/-1; color: red; text-align:center;'>Error al conectar con la base de datos.</p>";
+      }
+    }
+
+    // Dibujar tarjetas de muebles
+    function mostrarProductos(lista) {
+      const contenedor = document.getElementById("grid-productos");
+      contenedor.innerHTML = "";
+
+      if (!lista || lista.length === 0) {
+        contenedor.innerHTML = "<p style='grid-column: 1/-1; text-align:center;'>No hay productos disponibles en esta categoría.</p>";
+        return;
+      }
+
+      lista.forEach((producto) => {
+        const tarjeta = document.createElement("div");
+        tarjeta.className = "card";
+        tarjeta.innerHTML = `
+          <img src="${producto.imagen}" alt="${producto.nombre}">
+          <h3>${producto.nombre}</h3>
+          <p class="precio"><strong>Precio:</strong> $${Number(producto.precio).toLocaleString('es-CO')}</p>
+          <p class="stock"><strong>Disponibles:</strong> ${producto.stock > 0 ? producto.stock : 'Agotado'}</p>
+        `;
+        contenedor.appendChild(tarjeta);
+      });
+    }
+
+    // Función que llama el onclick del menú
+    function filtrarCategoria(categoria) {
+      const titulo = document.getElementById("titulo-categoria");
+      if (titulo) {
+        titulo.textContent = categoria === 'todos' ? "Todos nuestros muebles" : categoria.toUpperCase();
+      }
+      cargarProductos(categoria);
+    }
+
+    // Cargar productos automáticamente al abrir la página
+    document.addEventListener("DOMContentLoaded", () => {
+      cargarProductos('todos');
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,112 @@
+Codigo	Descripcion	Precio Costo	Precio Venta	Precio Mayoreo	Inventario	Inv. Minimo	Departamento
+1011	===========================================================================	$369000.00	$500.00	$0.00	5.00	0.000	- Sin Departamento -
+3002	Almohada Bed Harmony 45x65	$14000.00	$30000.00	$0.00	22.00	5	- Sin Departamento -
+3001	Almohada Bed Harmony De 50x75	$18000.00	$35000.00	$0.00	30.00	0.000	- Sin Departamento -
+3003	Almohada Troquelada Bed Harmony 	$38000.00	$65000.00	$0.00	15.00	0.000	- Sin Departamento -
+7033	C%.Ombo Cadenado De 140	$1067000.00	$1200.00	$0.00	1.00	0.000	- Sin Departamento -
+1026	COLCHON DELT 100X 190X30	$430000.00	$600.00	$0.00	1.00	0.000	- Sin Departamento -
+1025	COLCHON MONACO DE 100X190	$475000.00	$650.00	$0.00	1.00	0.000	- Sin Departamento -
+1008	COLCHON Montecarlo X 140x190x33	$1191000.00	$1800.00	$0.00	1.00	0.000	- Sin Departamento -
+7002	COMBO  CADENADO DE 2X2	$1600000.00	$2200000.00	$0.00	1.00	0.000	- Sin Departamento -
+7001	COMBO ABBY DE 2X2	$940000.00	$2000000.00	$0.00	1.00	0.000	- Sin Departamento -
+7010	COMBO CAPITONEADO DE  100 CON PIECERO	$494000.00	$750000.00	$0.00	1.00	0.000	- Sin Departamento -
+7011	COMBO CAPITONEADO DE 140 BOTON DIAMANTE	$527000.00	$750000.00	$0.00	1.00	0.000	- Sin Departamento -
+7005	COMBO CAPITONEADOX160 AZUL OSCURO	$667000.00	$1000000.00	$0.00	1.00	0.000	- Sin Departamento -
+7004	COMBO CHOCOLATINA DE 2X2 CON PIECERO	$914000.00	$1800000.00	$0.00	1.00	0.000	- Sin Departamento -
+7025	COMBO DE 140 EGIPTO	$395000.00	$650.00	$0.00	1.00	0.000	- Sin Departamento -
+7012	COMBO DOBLE TABLLERO CORONA DE 140 CON PIECERO	$395000.00	$750000.00	$0.00	1.00	0.000	- Sin Departamento -
+5	COMBO HORIZONTAL X 140 Rojo	$394000.00	$750000.00	$0.00	1.00	0.000	- Sin Departamento -
+7027	COMBO PALMA DE 160 CON PIECER0 	$520000.00	$1200.00	$0.00	1.00	0.000	- Sin Departamento -
+7006	COMBO PALMA DE 160 CON PIECERO	$627000.00	$1000000.00	$0.00	1.00	0.000	- Sin Departamento -
+7007	COMBO RIÑONERO DE 140 CON NPICERO	$474000.00	$750000.00	$0.00	1.00	0.000	- Sin Departamento -
+7003	COMBO TRENSADO DE 2X2 CON PIECERO CON ESPEJO 	$867000.00	$1600000.00	$0.00	1.00	0.000	- Sin Departamento -
+7008	COMO ABANICO DE 140 CON PICERO	$474000.00	$750000.00	$0.00	1.00	0.000	- Sin Departamento -
+9	Closet 120x190	$854000.00	$1500000.00	$0.00	2.00	0.000	- Sin Departamento -
+2001	Closet Family 200x190	$1500000.00	$2100.00	$0.00	1.00	0.000	- Sin Departamento -
+2005	Closet Nfqamily 180x190	$1374000.00	$1800.00	$0.00	2.00	0.000	- Sin Departamento -
+2003	Closet TOCADOR X 150 X190	$1040000.00	$1700.00	$0.00	2.00	0.000	- Sin Departamento -
+2004	Closet X120 X160	$702000.00	$1500.00	$0.00	1.00	0.000	- Sin Departamento -
+7029	Cmbo Palma Cruzado	$395000.00	$650000.00	$0.00	1.00	0.000	- Sin Departamento -
+1010	Colchon Caney 2x2	$871000.00	$1400.00	$0.00	1.00	0.000	- Sin Departamento -
+1009	Colchon Caribbean Pride X140x190x24	$451000.00	$650000.00	$0.00	1.00	0.000	- Sin Departamento -
+11	Colchon Cass RR 140X190X28	$602000.00	$850.00	$0.00	2.00	0.000	- Sin Departamento -
+1006	Colchon Cipriano Se Dual Pillow De 140x190 X30	$836000.00	$1000000.00	$0.00	1.00	0.000	- Sin Departamento -
+1027	Colchon Ecoflex 120x190x25	$408000.00	$500.00	$0.00	3.00	0.000	- Sin Departamento -
+136	Colchon Ecoflex 140x190x20	$304000.00	$400.00	$0.00	15.00	2	- Sin Departamento -
+1022	Colchon Ecoflex De 140x190x25	$414000.00	$550.00	$0.00	9.00	0.000	- Sin Departamento -
+3	Colchon Ecoflex X 100x190x25	$327000.00	$450000.00	$0.00	3.00	0.000	- Sin Departamento -
+1012	Colchon Ecoflex X100x190 X 20	$227000.00	$385000.00	$0.00	7.00	0.000	- Sin Departamento -
+1004	Colchon Forte140x190x30	$868000.00	$900000.00	$0.00	1.00	0.000	- Sin Departamento -
+1005	Colchon Imperial Pluss X140x33	$876000.00	$1350000.00	$0.00	2.00	0.000	- Sin Departamento -
+1003	Colchon London 140x190x25	$558000.00	$850000.00	$0.00	2.00	0.000	- Sin Departamento -
+1001	Colchon Power Pro 2x2x30	$1150.00	$1200000.00	$0.00	1.00	1	Colchones
+1019	Colchon RR TERRA X140 X190	$896000.00	$1350.00	$0.00	1.00	0.000	- Sin Departamento -
+1020	Colchon Stelar  Plus 200x200x30	$977000.00	$1600.00	$0.00	3.00	0.000	- Sin Departamento -
+1015	Colchon Stelar Plus X120x190x30	$519000.00	$700000.00	$0.00	0.00	0.000	- Sin Departamento -
+1023	Colchon Stelar Pluss 140x190x30	$675000.00	$5.00	$0.00	5.00	0.000	- Sin Departamento -
+ 	Colchon Unióllow X 160 Verona X 190 X 30	$703000.00	$1200000.00	$1200000.00	2.00	0.000	- Sin Departamento -
+1021	Colchon Unpillow 7montecarlo 2x2x39	$1408000.00	$1850000.00	$0.00	1.00	0.000	- Sin Departamento -
+1024	Colchon Unpillow Big Comfor Jacquar  X140x190 X 32	$7510003.00	$1200000.00	$0.00	1.00	0.000	- Sin Departamento -
+1014	Colchon Unpillow Veronasatinado De 100x190x 30	$469000.00	$600000.00	$0.00	1.00	0.000	- Sin Departamento -
+1018	Colchoneta De 100x190x14	$144000.00	$180000.00	$0.00	2.00	0.000	- Sin Departamento -
+1017	Colchoneta X120x190x14	$164000.00	$220000.00	$0.00	3.00	0.000	- Sin Departamento -
+1016	Colchonetax140x190x14	$187000.00	$250000.00	$0.00	3.00	0.000	- Sin Departamento -
+7026	Combo  Choco De 140 	$395000.00	$650000.00	$0.00	1.00	0.000	- Sin Departamento -
+7028	Combo Advenger =de 140	$395000.00	$650000.00	$0.00	1.00	0.000	- Sin Departamento -
+7019	Combo BANDERA X 140	$395000.00	$650.00	$0.00	1.00	0.000	- Sin Departamento -
+7021	Combo Bandera X 2X2	$680000.00	$1200.00	$0.00	1.00	0.000	- Sin Departamento -
+7023	Combo Cadenado Con Espejo De 140	$750000.00	$100000.00	$950.00	1.00	0.000	- Sin Departamento -
+7018	Combo Capitoneado X 100 	$395000.00	$550000.00	$0.00	1.00	0.000	- Sin Departamento -
+7016	Combo Doble Tablero  Corona De 120	$395000.00	$550000.00	$0.00	1.00	0.000	- Sin Departamento -
+7022	Combo Faraon  Espejo 2x2	$1667000.00	$2500000.00	$0.00	1.00	0.000	- Sin Departamento -
+7024	Combo Faron Espejo Eco De 140	$750000.00	$1000.00	$0.00	1.00	0.000	- Sin Departamento -
+7032	Combo Lapiz	$395000.00	$650000.00	$0.00	1.00	0.000	- Sin Departamento -
+7017	Combo Palma De 100 	$395000.00	$550000.00	$0.00	1.00	0.000	- Sin Departamento -
+7014	Combo Riñonero 2x2	$867000.00	$1500000.00	$0.00	1.00	0.000	- Sin Departamento -
+7031	Combo Riñonero De 140	$395000.00	$650000.00	$0.00	1.00	0.000	- Sin Departamento -
+7020	Combo Riñonero X140x 190 Sin Piecero	$395000.00	$650000.00	$0.00	1.00	0.000	- Sin Departamento -
+7015	Combo Trensado De 120 Pata De Madera	$395000.00	$550000.00	$0.00	1.00	0.000	- Sin Departamento -
+7030	Combo Trenzado De 140	$395000.00	$650000.00	$0.00	1.00	0.000	- Sin Departamento -
+10005	Comedor Capitoneado	$794000.00	$1000000.00	$0.00	0.00	0.000	- Sin Departamento -
+10004	Comedor Capitoneado X 4 Pts	$1074000.00	$1450000.00	$0.00	1.00	0.000	- Sin Departamento -
+10003	Comedor Capitoneado X 6 Pts	$1487000.00	$1800000.00	$0.00	0.00	0.000	- Sin Departamento -
+10001	Comedor Deco Capitoneado X 4 Pts	$796000.00	$1000000.00	$0.00	1.00	0.000	- Sin Departamento -
+10002	Comedor Deco Capitoneado X 6 Pts	$1071000.00	$1400000.00	$0.00	1.00	0.000	- Sin Departamento -
+9003	Edstufa 08 Gavinete Gas Natural	$587000.00	$700000.00	$0.00	2.00	0.000	- Sin Departamento -
+9005	Escritorio De  120	$380000.00	$580000.00	$0.00	1.00	0.000	- Sin Departamento -
+9004	Escritorio De 120 Con Archivador	$420000.00	$750000.00	$0.00	1.00	0.000	- Sin Departamento -
+9001	Estufa Sobremesa  Gas Propano	$320000.00	$420000.00	$0.00	1.00	0.000	- Sin Departamento -
+9002	Estufa Sobremesa Gas Natural	$320000.00	$400000.00	$0.00	2.00	0.000	- Sin Departamento -
+20001	Mesa Plasma 120	$307000.00	$450000.00	$0.00	0.00	0.000	- Sin Departamento -
+20002	Mesa Plasma 150	$400000.00	$650.00	$0.00	2.00	0.000	- Sin Departamento -
+30001	Nochero Con Espejo	$187000.00	$250000.00	$0.00	4.00	0.000	- Sin Departamento -
+6004	Peinadora H0llywood De 90 Kitti	$800.00	$1200000.00	$0.00	100.00	0.000	- Sin Departamento -
+6003	Peinadora Hollywood De 90cm Con Espejos	$734000.00	$850000.00	$0.00	1.00	0.000	- Sin Departamento -
+6001	Peinadora Pie De Reina	$734000.00	$750000.00	$0.00	1.00	0.000	- Sin Departamento -
+6009	Pieinadora Semanario Hollywood De 60 Cm Con Rieles	$427000.00	$650000.00	$0.00	1.00	0.000	- Sin Departamento -
+1208	Pr0tector De 120	$46000.00	$65000.00	$0.00	2.00	0.000	- Sin Departamento -
+1207	Protector De 100	$42000.00	$60000.00	$0.00	2.00	0.000	- Sin Departamento -
+1209	Protector De 140	$46000.00	$70000.00	$0.00	2.00	0.000	- Sin Departamento -
+4001	Puff De Peluche	$87000.00	$120000.00	$0.00	2.00	0.000	- Sin Departamento -
+1204	Sabana Alegro X 100	$36000.00	$50000.00	$0.00	2.00	0.000	- Sin Departamento -
+1205	Sabana Alegro X 120	$40000.00	$55000.00	$0.00	2.00	0.000	- Sin Departamento -
+1206	Sabana Alegro X 140	$45000.00	$60000.00	$0.00	2.00	0.000	- Sin Departamento -
+1202	Sabana Montereal X120 	$45000.00	$60000.00	$0.00	2.00	0.000	- Sin Departamento -
+1203	Sabana Monterealx140	$50000.00	$70.00	$0.00	2.00	0.000	- Sin Departamento -
+55555	Sabana Motereal X 140	$50000.00	$65000.00	$0.00	2.00	0.000	- Sin Departamento -
+80	Sal Titanic	$930000.00	$1200000.00	$0.00	1.00	0.000	- Sin Departamento -
+8001	Sala  Carro Huevo	$2534000.00	$3500.00	$0.00	1.00	0.000	- Sin Departamento -
+8008	Sala Capri	$2139000.00	$3200.00	$0.00	1.00	0.000	- Sin Departamento -
+8003	Sala Coqueta 	$800000.00	$1200000.00	$0.00	2.00	0.000	- Sin Departamento -
+8002	Sala Mini Huevo	$1100000.00	$1400000.00	$0.00	1.00	0.000	- Sin Departamento -
+8007	Sala Multifuncional	$2267000.00	$3200000.00	$0.00	1.00	0.000	- Sin Departamento -
+8005	Sala Yunior	$800000.00	$120000.00	$0.00	2.00	0.000	- Sin Departamento -
+1201	Sasbana  Montereal De 100 X190 X20	$40000.00	$55000.00	$0.00	2.00	0.000	- Sin Departamento -
+5007	Somier 2x2 De Colores	$360000.00	$450000.00	$0.00	1.00	0.000	- Sin Departamento -
+5006	Somier De  160 X De Color	$250000.00	$350000.00	$0.00	1.00	0.000	- Sin Departamento -
+5002	Somier X 100	$180000.00	$220000.00	$0.00	2.00	0.000	- Sin Departamento -
+5008	Somier X 100 De Color	$190000.00	$300000.00	$0.00	2.00	0.000	- Sin Departamento -
+5003	Somier X 160	$250000.00	$300000.00	$0.00	1.00	0.000	- Sin Departamento -
+5005	Somier X120 De Color	$190000.00	$300000.00	$0.00	3.00	0.000	- Sin Departamento -
+2	Somier X140	$190000.00	$250000.00	$0.00	12.00	0.000	- Sin Departamento -
+6002	Tocador Hollywood De 120	$920000.00	$1200000.00	$0.00	1.00	0.000	- Sin Departamento -
