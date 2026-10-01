@@ -7,11 +7,12 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-// Servir los archivos estáticos (html, css, js) de esta misma carpeta
+// Servir archivos estáticos
 app.use(express.static(__dirname));
 
-// Conexión a la base de datos imperial.db
-const db = new sqlite3.Database('./imperial.db', (err) => {
+// Ruta absoluta a la base de datos
+const dbPath = path.join(__dirname, 'imperial.db');
+const db = new sqlite3.Database(dbPath, (err) => {
   if (err) {
     console.error('Error al abrir la base de datos:', err.message);
   } else {
@@ -40,8 +41,8 @@ app.get('/api/productos', (req, res) => {
   });
 });
 
-// Arrancar el servidor en el puerto 3000
-const PORT = 3000;
+// Usar el puerto asignado por Render (process.env.PORT) o 3000 para local
+const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
-  console.log(`Servidor activo en http://localhost:${PORT}`);
+  console.log(`Servidor activo en el puerto ${PORT}`);
 });
